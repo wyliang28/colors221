@@ -1,0 +1,28 @@
+/* src/index.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+table th, table td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+button {
+  padding: 8px 16px;
+  border: none;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
